@@ -20,12 +20,13 @@ https://doi.org/10.1287/ijoc.2022.0221.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@article{ContardoNgueveuIPWLB2025,
+@misc{ContardoNgueveuIPWLB2025,
   author =        {Claudio Contardo and Sandra U. Ngueveu},
   publisher =     {INFORMS Journal on Computing},
   title =         {On the approximation of separable non-convex optimization programs to an arbitrary numerical tolerance},
   year =          {2025},
   doi =           {10.1287/ijoc.2022.0221.cd},
+  url = {https://github.com/INFORMSJoC/2022.0221},
   note =          {Available for download at https://github.com/INFORMSJoC/2022.0221},
 }
 ```
